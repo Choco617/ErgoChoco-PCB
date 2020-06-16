@@ -11,7 +11,7 @@ Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 "License: MIT"
-Comment4 "Author: u/Choco617"
+Comment4 "Author: Choco617"
 $EndDescr
 $Comp
 L MCU_Microchip_ATmega:ATmega32U4-AU U?
