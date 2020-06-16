@@ -430,9 +430,9 @@ Wire Wire Line
 Connection ~ 2450 6750
 Wire Wire Line
 	2450 6750 2100 6750
-Text GLabel 2100 6950 2    50   Input ~ 0
+Text GLabel 2800 6950 2    50   Input ~ 0
 D+
-Text GLabel 2100 7050 2    50   Input ~ 0
+Text GLabel 2800 7050 2    50   Input ~ 0
 D-
 $Comp
 L power:GND #PWR?
@@ -2501,4 +2501,34 @@ F 3 "" H 7550 5100 50  0001 C CNN
 $EndComp
 Text GLabel 7550 4700 1    50   Input ~ 0
 LEDGND
+$Comp
+L Device:R_Small R?
+U 1 1 5F5EB1F7
+P 2300 6950
+F 0 "R?" V 2104 6950 50  0000 C CNN
+F 1 "22" V 2195 6950 50  0000 C CNN
+F 2 "" H 2300 6950 50  0001 C CNN
+F 3 "~" H 2300 6950 50  0001 C CNN
+	1    2300 6950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 5F601D9F
+P 2550 7050
+F 0 "R?" V 2354 7050 50  0000 C CNN
+F 1 "22" V 2445 7050 50  0000 C CNN
+F 2 "" H 2550 7050 50  0001 C CNN
+F 3 "~" H 2550 7050 50  0001 C CNN
+	1    2550 7050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2100 6950 2200 6950
+Wire Wire Line
+	2400 6950 2800 6950
+Wire Wire Line
+	2100 7050 2450 7050
+Wire Wire Line
+	2650 7050 2800 7050
 $EndSCHEMATC
