@@ -1,4 +1,4 @@
-update=6/20/2020 9:49:30 AM
+update=6/20/2020 9:57:06 AM
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
+LastNetListRead=Corneus.net
 CopperLayerCount=4
 BoardThickness=1.6002
 AllowMicroVias=0
