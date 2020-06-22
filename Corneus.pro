@@ -1,4 +1,4 @@
-update=6/20/2020 11:33:02 AM
+update=6/22/2020 10:31:55 AM
 version=1
 last_client=kicad
 [general]
@@ -26,8 +26,8 @@ ERC_TestSimilarLabels=1
 version=1
 PageLayoutDescrFile=
 LastNetListRead=Corneus.net
-CopperLayerCount=4
-BoardThickness=1.6002
+CopperLayerCount=2
+BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=1
@@ -77,17 +77,17 @@ SolderMaskMinWidth=0.12
 SolderPasteClearance=0
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
-Name=Front
+Name=F.Cu
 Type=0
 Enabled=1
 [pcbnew/Layer.In1.Cu]
 Name=In1.Cu
 Type=0
-Enabled=1
+Enabled=0
 [pcbnew/Layer.In2.Cu]
 Name=In2.Cu
 Type=0
-Enabled=1
+Enabled=0
 [pcbnew/Layer.In3.Cu]
 Name=In3.Cu
 Type=0
@@ -201,13 +201,13 @@ Name=In30.Cu
 Type=0
 Enabled=0
 [pcbnew/Layer.B.Cu]
-Name=Back
+Name=B.Cu
 Type=0
 Enabled=1
 [pcbnew/Layer.B.Adhes]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.F.Adhes]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.B.Paste]
 Enabled=1
 [pcbnew/Layer.F.Paste]
@@ -223,11 +223,11 @@ Enabled=1
 [pcbnew/Layer.Dwgs.User]
 Enabled=1
 [pcbnew/Layer.Cmts.User]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.Eco1.User]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.Eco2.User]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.Edge.Cuts]
 Enabled=1
 [pcbnew/Layer.Margin]
@@ -237,7 +237,7 @@ Enabled=1
 [pcbnew/Layer.F.CrtYd]
 Enabled=1
 [pcbnew/Layer.B.Fab]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.F.Fab]
 Enabled=1
 [pcbnew/Layer.Rescue]
@@ -247,6 +247,17 @@ Enabled=0
 Name=Default
 Clearance=0.254
 TrackWidth=0.254
+ViaDiameter=0.8
+ViaDrill=0.4
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/1]
+Name=Power
+Clearance=0.254
+TrackWidth=0.381
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
