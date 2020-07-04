@@ -2560,4 +2560,28 @@ Text GLabel 2950 1350 2    50   Input ~ 0
 ROW1
 Text GLabel 2950 1450 2    50   Input ~ 0
 ROW0
+Text GLabel 2950 2750 2    50   Input ~ 0
+COL4
+Text GLabel 2950 2950 2    50   Input ~ 0
+COL5
+Text GLabel 2950 3050 2    50   Input ~ 0
+COL3
+Text GLabel 2950 1550 2    50   Input ~ 0
+COL2
+Text GLabel 2950 1650 2    50   Input ~ 0
+COL1
+Text GLabel 2950 1750 2    50   Input ~ 0
+COL0
+Text GLabel 2950 3750 2    50   Input ~ 0
+COL6
+Text GLabel 2950 3650 2    50   Input ~ 0
+COL7
+Text GLabel 2950 3550 2    50   Input ~ 0
+COL8
+Text GLabel 2950 3850 2    50   Input ~ 0
+COL9
+Text GLabel 2950 3950 2    50   Input ~ 0
+COL10
+Text GLabel 2950 4050 2    50   Input ~ 0
+COL11
 $EndSCHEMATC
