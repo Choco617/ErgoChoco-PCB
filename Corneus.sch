@@ -2584,4 +2584,7 @@ Text GLabel 2950 3950 2    50   Input ~ 0
 COL10
 Text GLabel 2950 4050 2    50   Input ~ 0
 COL11
+Text GLabel 2950 2050 2    50   Input ~ 0
+LEDPWM
+NoConn ~ 1750 1750
 $EndSCHEMATC
