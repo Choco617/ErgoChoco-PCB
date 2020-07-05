@@ -4,13 +4,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Corneus"
-Date "2020-06-16"
-Rev "v01"
+Title "ErgoChoco"
+Date "2020-07-05"
+Rev "v1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
-Comment3 "License: MIT"
+Comment3 "License: CC BY-NC"
 Comment4 "Author: u/Choco617"
 $EndDescr
 $Comp

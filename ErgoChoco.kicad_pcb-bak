@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 14)
+    (drawings 16)
     (tracks 1410)
     (zones 0)
     (modules 159)
@@ -73,7 +73,7 @@
     (pad_to_mask_clearance 0)
     (solder_mask_min_width 0.12)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFEFFF)
+    (visible_elements 7FF7EFFF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -7964,6 +7964,12 @@
     )
   )
 
+  (gr_text repo: (at 217.45 119.8) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "\nhttps://github.com/Choco617/ErgoChoco-PCB" (at 233.65 120.8) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_text "designed by u/Choco617" (at 67.6 123.05) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
