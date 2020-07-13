@@ -1,0 +1,19 @@
+Reference Designator,Value,Description,Footprint,LCSC PN,Price ea,Price ext,URL,JLCPCB basic/extended parts list,Quantity
+    C1,1uF,UCAP capacitor,Capacitor_SMD:C_0805_2012Metric,C28323,0.0224,0.0224,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21B105KBFNNNE_1uF-105-10-50V_C28323.html/?href=jlc-SMT ,basic,1
+>  C2-C4,0.1uF,MCU decoupling capacitors,Capacitor_SMD:C_0805_2012Metric,C49678,0.0165,0.0495,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-50V_C49678.html/?href=jlc-SMT ,basic,3
+    C5,10uF,MCU decoupling capacitors,Capacitor_SMD:C_0805_2012Metric,C15850,0.0318,0.0318,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21A106KAYNNNE_10uF-106-10-25V_C15850.html/?href=jlc-SMT ,basic,1
+">  C6, C7",22pF,Crystal load capacitors,Capacitor_SMD:C_0805_2012Metric,C1804,0.0148,0.0296,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21C220JBANNNC_22pF-220-5-50V_C1804.html/?href=jlc-SMT ,basic,2
+>  D1-D42,SOD-123,Switch diodes,Diode_SMD:D_SOD-123,C81598,0.014,0.588,https://lcsc.com/product-detail/Switching-Diode_1N4148W_C81598.html/?href=jlc-SMT ,basic,42
+    F1,500mA,USB fuse,Fuse:Fuse_1206_3216Metric,C163133,0.0534,0.0534,https://lcsc.com/product-detail/Surface-Mount-Fuses_TA-I-Tech-CFS12V6TR50_C163133.html/?href=jlc-SMT ,extended,1
+    J1,USB_B_Micro,Micro USB port,Choco617_parts:CUI_UJ2-MIBH2-4-SMT,N/A,,,https://www.digikey.com/product-detail/en/cui-devices/UJ2-MIBH2-4-SMT-TR/102-4007-1-ND/6187929 ,"N/A, will hand solder",1
+>  MX1-MX42,MX-LED,Switches,Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U,N/A,,,"Kailh hotswap sockets and whatever switches I want, also white LEDs, model TBD","N/A, will hand solder",42
+    Q1,Q_NPN_BCE,MOSFET (transistor) for LED PWM,Package_TO_SOT_SMD:SOT-223,C192156,0.1153,0.1153,https://lcsc.com/product-detail/Others_Nexperia_BCP56-10-115_Nexperia-BCP56-10-115_C192156.html/?href=jlc-SMT ,extended,1
+>  R1-R42,470,LED resistors,Resistor_SMD:R_0805_2012Metric,C17710,0.004,0.168,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0805W8F4700T5E_C17710.html/?href=jlc-SMT ,basic,42
+">  R44,R45",22,USB resistors,Resistor_SMD:R_0805_2012Metric,C17561,0.0039,0.0156,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0805W8F220JT5E_C17561.html/?href=jlc-SMT ,basic,4
+">  R43, R46",10k,"HWB pull-down resistor, reset button pull-up resistor",Resistor_SMD:R_0805_2012Metric,C17414,0.0039,0.0078,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0805W8F1002T5E_C17414.html/?href=jlc-SMT ,basic,2
+    NPNR1,1.5k,MOSFET resistor,Resistor_SMD:R_0805_2012Metric,C4310,0.0049,0.0049,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0805W8F1501T5E_C4310.html/?href=jlc-SMT ,basic,1
+    SW1,SW_Push,Reset button,random-keyboard-parts:SKQG-1155865,C318884,0.033,0.033,https://lcsc.com/product-detail/Tactile-Switches_XKB-Enterprise-TS-1187-B-A-A_C318884.html/?href=jlc-SMT ,extended,1
+    U1,ATmega32U4-AU,atmega32u4 MCU,Package_QFP:TQFP-44_10x10mm_P0.8mm,C44854,3.3087,3.3087,https://lcsc.com/product-detail/ATMEL-AVR_ATMEL_ATMEGA32U4-AU_ATMEGA32U4-AU_C44854.html/?href=jlc-SMT ,extended,1
+    U2,PRTR5V0U2X,ESD protection IC,random-keyboard-parts:SOT143B,N/A,,,https://www.digikey.com/product-detail/en/nexperia-usa-inc/PRTR5V0U2X-215/1727-3884-1-ND/1589981 ,"N/A, will hand solder",1
+    Y1,16MHz,Crystal,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738,0.0887,0.0887,https://lcsc.com/product-detail/SMD-Crystal-Resonators_Yangxing-Tech-X322516MLB4SI_C13738.html/?href=jlc-SMT ,basic,1
+,,,,,Total:,4.5167,,,
