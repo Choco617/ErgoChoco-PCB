@@ -2062,7 +2062,7 @@ U 1 1 5F0FD22B
 P 2700 5700
 F 0 "U1" H 2700 6537 60  0000 C CNN
 F 1 "ProMicro" H 2700 6431 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro-BackSide" V 3750 3200 60  0001 C CNN
+F 2 "Keebio-Parts:ArduinoProMicro" V 3750 3200 60  0001 C CNN
 F 3 "" V 3750 3200 60  0001 C CNN
 	1    2700 5700
 	1    0    0    -1  
