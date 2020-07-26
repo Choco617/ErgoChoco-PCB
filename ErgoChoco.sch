@@ -2025,7 +2025,7 @@ U 1 1 5F5CD88C
 P 5600 5700
 F 0 "Q1" H 5791 5746 50  0000 L CNN
 F 1 "Q_NPN_BCE" H 5791 5655 50  0000 L CNN
-F 2 "digikey-footprints:Trans_SOT-223-4" H 5800 5800 50  0001 C CNN
+F 2 "digikey-footprints:SOT-23-3" H 5800 5800 50  0001 C CNN
 F 3 "~" H 5600 5700 50  0001 C CNN
 	1    5600 5700
 	1    0    0    -1  
@@ -2067,4 +2067,169 @@ F 3 "" V 3750 3200 60  0001 C CNN
 	1    2700 5700
 	1    0    0    -1  
 $EndComp
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5F134FD2
+P 4000 5350
+F 0 "SW1" H 4000 5635 50  0000 C CNN
+F 1 "SW_Push" H 4000 5544 50  0000 C CNN
+F 2 "random-keyboard-parts:SKQG-1155865" H 4000 5550 50  0001 C CNN
+F 3 "~" H 4000 5550 50  0001 C CNN
+	1    4000 5350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 5350 3800 5350
+$Comp
+L power:GND #PWR0101
+U 1 1 5F1466C9
+P 4200 5350
+F 0 "#PWR0101" H 4200 5100 50  0001 C CNN
+F 1 "GND" H 4205 5177 50  0000 C CNN
+F 2 "" H 4200 5350 50  0001 C CNN
+F 3 "" H 4200 5350 50  0001 C CNN
+	1    4200 5350
+	1    0    0    -1  
+$EndComp
+Text GLabel 2000 5950 0    50   Input ~ 0
+ROW0
+Text GLabel 2000 6050 0    50   Input ~ 0
+ROW1
+Text GLabel 2000 6150 0    50   Input ~ 0
+ROW2
+Text GLabel 3400 6250 2    50   Input ~ 0
+ROW3
+Text GLabel 3400 5650 2    50   Input ~ 0
+COL0
+Text GLabel 3400 5750 2    50   Input ~ 0
+COL1
+Text GLabel 3400 5850 2    50   Input ~ 0
+COL2
+Text GLabel 3400 5950 2    50   Input ~ 0
+COL3
+Text GLabel 3400 6050 2    50   Input ~ 0
+COL4
+Text GLabel 3400 6150 2    50   Input ~ 0
+COL5
+Text GLabel 2000 5850 0    50   Input ~ 0
+COL6
+Text GLabel 2000 5750 0    50   Input ~ 0
+COL7
+Text GLabel 2000 5650 0    50   Input ~ 0
+COL8
+Text GLabel 2000 5550 0    50   Input ~ 0
+COL9
+Text GLabel 2000 5250 0    50   Input ~ 0
+COL10
+Text GLabel 2000 5150 0    50   Input ~ 0
+COL11
+$Comp
+L power:GND #PWR0102
+U 1 1 5F145398
+P 1600 5450
+F 0 "#PWR0102" H 1600 5200 50  0001 C CNN
+F 1 "GND" H 1605 5277 50  0000 C CNN
+F 2 "" H 1600 5450 50  0001 C CNN
+F 3 "" H 1600 5450 50  0001 C CNN
+	1    1600 5450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 5350 1600 5350
+Wire Wire Line
+	1600 5350 1600 5450
+Wire Wire Line
+	2000 5450 1600 5450
+Connection ~ 1600 5450
+$Comp
+L power:GND #PWR0103
+U 1 1 5F169795
+P 3700 4800
+F 0 "#PWR0103" H 3700 4550 50  0001 C CNN
+F 1 "GND" H 3705 4627 50  0000 C CNN
+F 2 "" H 3700 4800 50  0001 C CNN
+F 3 "" H 3700 4800 50  0001 C CNN
+	1    3700 4800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 5250 3550 5250
+Wire Wire Line
+	3550 5250 3550 4750
+Wire Wire Line
+	3550 4750 3700 4750
+Wire Wire Line
+	3700 4750 3700 4800
+$Comp
+L power:+5V #PWR0104
+U 1 1 5F17C12B
+P 3900 5850
+F 0 "#PWR0104" H 3900 5700 50  0001 C CNN
+F 1 "+5V" H 3915 6023 50  0000 C CNN
+F 2 "" H 3900 5850 50  0001 C CNN
+F 3 "" H 3900 5850 50  0001 C CNN
+	1    3900 5850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 5450 3750 5450
+Wire Wire Line
+	3750 5450 3750 5900
+Wire Wire Line
+	3750 5900 3900 5900
+Wire Wire Line
+	3900 5900 3900 5850
+Text GLabel 2000 6250 0    50   Input ~ 0
+LEDPWM
+$Comp
+L Connector_Generic:Conn_01x03 J1
+U 1 1 5F15B661
+P 4550 6150
+F 0 "J1" H 4630 6192 50  0000 L CNN
+F 1 "Conn_01x03" H 4630 6101 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 4550 6150 50  0001 C CNN
+F 3 "~" H 4550 6150 50  0001 C CNN
+	1    4550 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5F16FC44
+P 4150 5900
+F 0 "#PWR0105" H 4150 5650 50  0001 C CNN
+F 1 "GND" H 4155 5727 50  0000 C CNN
+F 2 "" H 4150 5900 50  0001 C CNN
+F 3 "" H 4150 5900 50  0001 C CNN
+	1    4150 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0106
+U 1 1 5F17076B
+P 4150 6400
+F 0 "#PWR0106" H 4150 6250 50  0001 C CNN
+F 1 "+5V" H 4165 6573 50  0000 C CNN
+F 2 "" H 4150 6400 50  0001 C CNN
+F 3 "" H 4150 6400 50  0001 C CNN
+	1    4150 6400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 6250 4300 6250
+Wire Wire Line
+	4300 6250 4300 6400
+Wire Wire Line
+	4300 6400 4150 6400
+Wire Wire Line
+	4350 6050 4300 6050
+Wire Wire Line
+	4300 6050 4300 5900
+Wire Wire Line
+	4300 5900 4150 5900
+Wire Wire Line
+	3400 5550 4050 5550
+Wire Wire Line
+	4050 5550 4050 6150
+Wire Wire Line
+	4050 6150 4350 6150
 $EndSCHEMATC
