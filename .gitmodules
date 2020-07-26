@@ -13,3 +13,9 @@
 [submodule "kicad_templates"]
 	path = kicad_templates
 	url = https://github.com/sethhillbrand/kicad_templates.git
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "keebio-components"]
+	path = keebio-components
+	url = https://github.com/keebio/keebio-components
