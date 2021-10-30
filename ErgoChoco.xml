@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\MattSpace\Documents\ErgoChoco-PCB\ErgoChoco.sch</source>
+    <date>6/9/2021 8:38:45 AM</date>
+    <tool>Eeschema (5.1.6)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>ErgoChoco</title>
+        <company/>
+        <rev>v1.0</rev>
+        <date>2020-07-05</date>
+        <source>ErgoChoco.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value="License: CC BY-NC"/>
+        <comment number="4" value="Author: u/Choco617"/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0CCCEC</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0CFD20</tstamp>
+    </comp>
+    <comp ref="MX2">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0D540B</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0D5411</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0D5418</tstamp>
+    </comp>
+    <comp ref="MX3">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0D6D5A</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0D6D60</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0D6D67</tstamp>
+    </comp>
+    <comp ref="MX4">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0D841F</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0D8425</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0D842C</tstamp>
+    </comp>
+    <comp ref="MX5">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0DB2A7</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0DB2AD</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0DB2B4</tstamp>
+    </comp>
+    <comp ref="MX6">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0DCCA7</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0DCCAD</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0DCCB4</tstamp>
+    </comp>
+    <comp ref="MX7">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0DE3C4</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0DE3CA</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0DE3D1</tstamp>
+    </comp>
+    <comp ref="MX8">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E0A0C</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E0A12</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E0A19</tstamp>
+    </comp>
+    <comp ref="MX9">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E23B2</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E23B8</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E23BF</tstamp>
+    </comp>
+    <comp ref="MX10">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E38C0</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E38C6</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E38CD</tstamp>
+    </comp>
+    <comp ref="MX11">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E53AF</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E53B5</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E53BC</tstamp>
+    </comp>
+    <comp ref="MX12">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E6AF2</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E6AF8</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0E6AFF</tstamp>
+    </comp>
+    <comp ref="MX13">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CD65</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CD6B</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CD72</tstamp>
+    </comp>
+    <comp ref="MX14">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CD78</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CD7E</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CD85</tstamp>
+    </comp>
+    <comp ref="MX15">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CD8B</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CD91</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CD98</tstamp>
+    </comp>
+    <comp ref="MX16">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CD9E</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDA4</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDAB</tstamp>
+    </comp>
+    <comp ref="MX17">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDB1</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDB7</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDBE</tstamp>
+    </comp>
+    <comp ref="MX18">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDC4</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDCA</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDD1</tstamp>
+    </comp>
+    <comp ref="MX19">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDD7</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDDD</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDE4</tstamp>
+    </comp>
+    <comp ref="MX20">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDEA</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDF0</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDF7</tstamp>
+    </comp>
+    <comp ref="MX21">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CDFD</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE03</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE0A</tstamp>
+    </comp>
+    <comp ref="MX22">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE10</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE16</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE1D</tstamp>
+    </comp>
+    <comp ref="MX23">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE23</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE29</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE30</tstamp>
+    </comp>
+    <comp ref="MX24">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE36</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE3C</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F13CE43</tstamp>
+    </comp>
+    <comp ref="MX25">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FB1</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FB7</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FBE</tstamp>
+    </comp>
+    <comp ref="MX26">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FC4</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FCA</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FD1</tstamp>
+    </comp>
+    <comp ref="MX27">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FD7</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FDD</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FE4</tstamp>
+    </comp>
+    <comp ref="MX28">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FEA</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FF0</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FF7</tstamp>
+    </comp>
+    <comp ref="MX29">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F162FFD</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163003</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F16300A</tstamp>
+    </comp>
+    <comp ref="MX30">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163010</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163016</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F16301D</tstamp>
+    </comp>
+    <comp ref="MX31">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163023</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163029</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163030</tstamp>
+    </comp>
+    <comp ref="MX32">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163036</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F16303C</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163043</tstamp>
+    </comp>
+    <comp ref="MX33">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163049</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F16304F</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163056</tstamp>
+    </comp>
+    <comp ref="MX34">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F16305C</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163062</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163069</tstamp>
+    </comp>
+    <comp ref="MX35">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F16306F</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163075</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F16307C</tstamp>
+    </comp>
+    <comp ref="MX36">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163082</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F163088</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F16308F</tstamp>
+    </comp>
+    <comp ref="MX37">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EAD</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EB3</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EBA</tstamp>
+    </comp>
+    <comp ref="MX38">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EC0</tstamp>
+    </comp>
+    <comp ref="D38">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EC6</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185ECD</tstamp>
+    </comp>
+    <comp ref="MX39">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185ED3</tstamp>
+    </comp>
+    <comp ref="D39">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185ED9</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EE0</tstamp>
+    </comp>
+    <comp ref="MX40">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EE6</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EEC</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EF3</tstamp>
+    </comp>
+    <comp ref="MX41">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EF9</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185EFF</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185F06</tstamp>
+    </comp>
+    <comp ref="MX42">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185F0C</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>SOD-123</value>
+      <footprint>Choco617_parts:D_SOD-123-HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185F12</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F185F19</tstamp>
+    </comp>
+    <comp ref="MX1">
+      <value>MX-LED</value>
+      <footprint>Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0CAF10</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_NPN_BCE</value>
+      <footprint>digikey-footprints:SOT-23-3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NPN_BCE" description="NPN transistor, base/collector/emitter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F5CD88C</tstamp>
+    </comp>
+    <comp ref="NPNR1">
+      <value>1.5k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F5CF76A</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>ProMicro</value>
+      <footprint>Keebio-Parts:ArduinoProMicro</footprint>
+      <libsource lib="keebio" part="ProMicro" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0FD22B</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>random-keyboard-parts:SKQG-1155865</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F134FD2</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x03</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F15B661</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BCE">
+      <description>NPN transistor, base/collector/emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BCE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MX_Alps_Hybrid" part="MX-LED">
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX-LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COL" type="passive"/>
+        <pin num="2" name="ROW" type="passive"/>
+        <pin num="3" name="LED" type="input"/>
+        <pin num="4" name="LEDGND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keebio" part="ProMicro">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ProMicro</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX0/PD3" type="input"/>
+        <pin num="2" name="RX1/PD2" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="2/PD1" type="input"/>
+        <pin num="6" name="3/PD0" type="input"/>
+        <pin num="7" name="4/PD4" type="input"/>
+        <pin num="8" name="5/PC6" type="input"/>
+        <pin num="9" name="6/PD7" type="input"/>
+        <pin num="10" name="7/PE6" type="input"/>
+        <pin num="11" name="8/PB4" type="input"/>
+        <pin num="12" name="9/PB5" type="input"/>
+        <pin num="13" name="10/PB6" type="input"/>
+        <pin num="14" name="16/PB2" type="input"/>
+        <pin num="15" name="14/PB3" type="input"/>
+        <pin num="16" name="15/PB1" type="input"/>
+        <pin num="17" name="A0/PF7" type="input"/>
+        <pin num="18" name="A1/PF6" type="input"/>
+        <pin num="19" name="A2/PF5" type="input"/>
+        <pin num="20" name="A3/PF4" type="input"/>
+        <pin num="21" name="VCC" type="input"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="input"/>
+        <pin num="24" name="RAW" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>D:\MattSpace\Program Files Bonus\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\MattSpace\Program Files Bonus\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="MX_Alps_Hybrid">
+      <uri>D:\MattSpace\Documents\ErgoChoco-PCB/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>D:\MattSpace\Program Files Bonus\KiCad\share\kicad\library/Switch.lib</uri>
+    </library>
+    <library logical="keebio">
+      <uri>D:\MattSpace\Documents\ErgoChoco-PCB/keebio-components/keebio.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(MX38-Pad4)">
+      <node ref="MX38" pin="4"/>
+      <node ref="R38" pin="1"/>
+    </net>
+    <net code="2" name="Net-(MX37-Pad4)">
+      <node ref="MX37" pin="4"/>
+      <node ref="R37" pin="1"/>
+    </net>
+    <net code="3" name="Net-(D37-Pad2)">
+      <node ref="MX37" pin="2"/>
+      <node ref="D37" pin="2"/>
+    </net>
+    <net code="4" name="Net-(D38-Pad2)">
+      <node ref="MX38" pin="2"/>
+      <node ref="D38" pin="2"/>
+    </net>
+    <net code="5" name="Net-(MX39-Pad4)">
+      <node ref="R39" pin="1"/>
+      <node ref="MX39" pin="4"/>
+    </net>
+    <net code="6" name="Net-(D39-Pad2)">
+      <node ref="MX39" pin="2"/>
+      <node ref="D39" pin="2"/>
+    </net>
+    <net code="7" name="ROW3">
+      <node ref="U1" pin="13"/>
+      <node ref="D41" pin="1"/>
+      <node ref="D40" pin="1"/>
+      <node ref="D42" pin="1"/>
+      <node ref="D37" pin="1"/>
+      <node ref="D39" pin="1"/>
+      <node ref="D38" pin="1"/>
+    </net>
+    <net code="8" name="Net-(D42-Pad2)">
+      <node ref="MX42" pin="2"/>
+      <node ref="D42" pin="2"/>
+    </net>
+    <net code="9" name="Net-(MX42-Pad4)">
+      <node ref="R42" pin="1"/>
+      <node ref="MX42" pin="4"/>
+    </net>
+    <net code="10" name="Net-(MX40-Pad4)">
+      <node ref="R40" pin="1"/>
+      <node ref="MX40" pin="4"/>
+    </net>
+    <net code="11" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2"/>
+      <node ref="MX40" pin="2"/>
+    </net>
+    <net code="12" name="Net-(MX41-Pad4)">
+      <node ref="R41" pin="1"/>
+      <node ref="MX41" pin="4"/>
+    </net>
+    <net code="13" name="Net-(D41-Pad2)">
+      <node ref="MX41" pin="2"/>
+      <node ref="D41" pin="2"/>
+    </net>
+    <net code="14" name="Net-(MX33-Pad4)">
+      <node ref="MX33" pin="4"/>
+      <node ref="R33" pin="1"/>
+    </net>
+    <net code="15" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2"/>
+      <node ref="MX33" pin="2"/>
+    </net>
+    <net code="16" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2"/>
+      <node ref="MX34" pin="2"/>
+    </net>
+    <net code="17" name="Net-(MX34-Pad4)">
+      <node ref="MX34" pin="4"/>
+      <node ref="R34" pin="1"/>
+    </net>
+    <net code="18" name="Net-(MX35-Pad4)">
+      <node ref="R35" pin="1"/>
+      <node ref="MX35" pin="4"/>
+    </net>
+    <net code="19" name="Net-(D35-Pad2)">
+      <node ref="MX35" pin="2"/>
+      <node ref="D35" pin="2"/>
+    </net>
+    <net code="20" name="Net-(MX31-Pad4)">
+      <node ref="MX31" pin="4"/>
+      <node ref="R31" pin="1"/>
+    </net>
+    <net code="21" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2"/>
+      <node ref="MX30" pin="2"/>
+    </net>
+    <net code="22" name="Net-(MX30-Pad4)">
+      <node ref="MX30" pin="4"/>
+      <node ref="R30" pin="1"/>
+    </net>
+    <net code="23" name="Net-(D31-Pad2)">
+      <node ref="MX31" pin="2"/>
+      <node ref="D31" pin="2"/>
+    </net>
+    <net code="24" name="Net-(MX32-Pad4)">
+      <node ref="R32" pin="1"/>
+      <node ref="MX32" pin="4"/>
+    </net>
+    <net code="25" name="Net-(D32-Pad2)">
+      <node ref="MX32" pin="2"/>
+      <node ref="D32" pin="2"/>
+    </net>
+    <net code="26" name="Net-(MX36-Pad4)">
+      <node ref="R36" pin="1"/>
+      <node ref="MX36" pin="4"/>
+    </net>
+    <net code="27" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2"/>
+      <node ref="MX36" pin="2"/>
+    </net>
+    <net code="28" name="ROW2">
+      <node ref="D30" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D35" pin="1"/>
+      <node ref="U1" pin="11"/>
+      <node ref="D32" pin="1"/>
+      <node ref="D29" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D25" pin="1"/>
+      <node ref="D34" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D33" pin="1"/>
+    </net>
+    <net code="29" name="COL5">
+      <node ref="MX30" pin="1"/>
+      <node ref="U1" pin="14"/>
+      <node ref="MX6" pin="1"/>
+      <node ref="MX18" pin="1"/>
+      <node ref="MX39" pin="1"/>
+    </net>
+    <net code="30" name="COL8">
+      <node ref="MX9" pin="1"/>
+      <node ref="MX21" pin="1"/>
+      <node ref="MX33" pin="1"/>
+      <node ref="U1" pin="6"/>
+      <node ref="MX42" pin="1"/>
+    </net>
+    <net code="31" name="COL7">
+      <node ref="MX20" pin="1"/>
+      <node ref="MX8" pin="1"/>
+      <node ref="U1" pin="7"/>
+      <node ref="MX32" pin="1"/>
+      <node ref="MX41" pin="1"/>
+    </net>
+    <net code="32" name="COL6">
+      <node ref="U1" pin="8"/>
+      <node ref="MX31" pin="1"/>
+      <node ref="MX40" pin="1"/>
+      <node ref="MX19" pin="1"/>
+      <node ref="MX7" pin="1"/>
+    </net>
+    <net code="33" name="ROW0">
+      <node ref="D9" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="U1" pin="9"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D5" pin="1"/>
+    </net>
+    <net code="34" name="ROW1">
+      <node ref="D22" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="U1" pin="10"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D23" pin="1"/>
+    </net>
+    <net code="35" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2"/>
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="36" name="+5V">
+      <node ref="MX4" pin="3"/>
+      <node ref="MX15" pin="3"/>
+      <node ref="MX5" pin="3"/>
+      <node ref="MX6" pin="3"/>
+      <node ref="MX11" pin="3"/>
+      <node ref="MX3" pin="3"/>
+      <node ref="MX10" pin="3"/>
+      <node ref="MX12" pin="3"/>
+      <node ref="MX2" pin="3"/>
+      <node ref="MX34" pin="3"/>
+      <node ref="MX21" pin="3"/>
+      <node ref="MX41" pin="3"/>
+      <node ref="MX40" pin="3"/>
+      <node ref="MX42" pin="3"/>
+      <node ref="MX33" pin="3"/>
+      <node ref="MX24" pin="3"/>
+      <node ref="MX35" pin="3"/>
+      <node ref="MX31" pin="3"/>
+      <node ref="MX32" pin="3"/>
+      <node ref="MX17" pin="3"/>
+      <node ref="MX16" pin="3"/>
+      <node ref="MX20" pin="3"/>
+      <node ref="MX18" pin="3"/>
+      <node ref="MX19" pin="3"/>
+      <node ref="MX13" pin="3"/>
+      <node ref="MX37" pin="3"/>
+      <node ref="MX38" pin="3"/>
+      <node ref="MX23" pin="3"/>
+      <node ref="MX39" pin="3"/>
+      <node ref="MX22" pin="3"/>
+      <node ref="MX8" pin="3"/>
+      <node ref="J1" pin="3"/>
+      <node ref="MX36" pin="3"/>
+      <node ref="MX9" pin="3"/>
+      <node ref="MX7" pin="3"/>
+      <node ref="MX27" pin="3"/>
+      <node ref="U1" pin="21"/>
+      <node ref="MX25" pin="3"/>
+      <node ref="MX26" pin="3"/>
+      <node ref="MX30" pin="3"/>
+      <node ref="MX14" pin="3"/>
+      <node ref="MX29" pin="3"/>
+      <node ref="MX28" pin="3"/>
+      <node ref="MX1" pin="3"/>
+    </net>
+    <net code="37" name="COL9">
+      <node ref="MX10" pin="1"/>
+      <node ref="MX22" pin="1"/>
+      <node ref="MX34" pin="1"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="38" name="Net-(U1-Pad24)">
+      <node ref="U1" pin="24"/>
+    </net>
+    <net code="39" name="COL4">
+      <node ref="MX5" pin="1"/>
+      <node ref="MX29" pin="1"/>
+      <node ref="U1" pin="15"/>
+      <node ref="MX38" pin="1"/>
+      <node ref="MX17" pin="1"/>
+    </net>
+    <net code="40" name="COL3">
+      <node ref="MX16" pin="1"/>
+      <node ref="MX28" pin="1"/>
+      <node ref="U1" pin="16"/>
+      <node ref="MX37" pin="1"/>
+      <node ref="MX4" pin="1"/>
+    </net>
+    <net code="41" name="COL2">
+      <node ref="MX27" pin="1"/>
+      <node ref="U1" pin="17"/>
+      <node ref="MX3" pin="1"/>
+      <node ref="MX15" pin="1"/>
+    </net>
+    <net code="42" name="COL1">
+      <node ref="MX14" pin="1"/>
+      <node ref="MX2" pin="1"/>
+      <node ref="MX26" pin="1"/>
+      <node ref="U1" pin="18"/>
+    </net>
+    <net code="43" name="COL0">
+      <node ref="MX25" pin="1"/>
+      <node ref="MX1" pin="1"/>
+      <node ref="U1" pin="19"/>
+      <node ref="MX13" pin="1"/>
+    </net>
+    <net code="44" name="Net-(SW1-Pad1)">
+      <node ref="U1" pin="22"/>
+      <node ref="SW1" pin="1"/>
+    </net>
+    <net code="45" name="GND">
+      <node ref="SW1" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="U1" pin="4"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U1" pin="23"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="46" name="LEDGND">
+      <node ref="R18" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="R15" pin="2"/>
+      <node ref="R16" pin="2"/>
+      <node ref="R20" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R19" pin="2"/>
+      <node ref="R11" pin="2"/>
+      <node ref="R25" pin="2"/>
+      <node ref="R36" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="R26" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="R37" pin="2"/>
+      <node ref="R38" pin="2"/>
+      <node ref="R28" pin="2"/>
+      <node ref="R13" pin="2"/>
+      <node ref="R29" pin="2"/>
+      <node ref="R22" pin="2"/>
+      <node ref="R12" pin="2"/>
+      <node ref="R42" pin="2"/>
+      <node ref="R14" pin="2"/>
+      <node ref="R21" pin="2"/>
+      <node ref="R35" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R33" pin="2"/>
+      <node ref="R24" pin="2"/>
+      <node ref="R34" pin="2"/>
+      <node ref="R27" pin="2"/>
+      <node ref="R23" pin="2"/>
+      <node ref="R30" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="R17" pin="2"/>
+      <node ref="R31" pin="2"/>
+      <node ref="R32" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R41" pin="2"/>
+      <node ref="R39" pin="2"/>
+      <node ref="R40" pin="2"/>
+    </net>
+    <net code="47" name="Net-(MX1-Pad4)">
+      <node ref="MX1" pin="4"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="48" name="Net-(NPNR1-Pad1)">
+      <node ref="NPNR1" pin="1"/>
+      <node ref="Q1" pin="1"/>
+    </net>
+    <net code="49" name="LEDPWM">
+      <node ref="U1" pin="12"/>
+      <node ref="NPNR1" pin="2"/>
+    </net>
+    <net code="50" name="COL11">
+      <node ref="MX12" pin="1"/>
+      <node ref="MX36" pin="1"/>
+      <node ref="U1" pin="1"/>
+      <node ref="MX24" pin="1"/>
+    </net>
+    <net code="51" name="COL10">
+      <node ref="MX23" pin="1"/>
+      <node ref="MX35" pin="1"/>
+      <node ref="MX11" pin="1"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="52" name="Net-(D12-Pad2)">
+      <node ref="MX12" pin="2"/>
+      <node ref="D12" pin="2"/>
+    </net>
+    <net code="53" name="Net-(MX12-Pad4)">
+      <node ref="MX12" pin="4"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="54" name="Net-(MX13-Pad4)">
+      <node ref="R13" pin="1"/>
+      <node ref="MX13" pin="4"/>
+    </net>
+    <net code="55" name="Net-(D13-Pad2)">
+      <node ref="MX13" pin="2"/>
+      <node ref="D13" pin="2"/>
+    </net>
+    <net code="56" name="Net-(MX14-Pad4)">
+      <node ref="MX14" pin="4"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="57" name="Net-(D14-Pad2)">
+      <node ref="MX14" pin="2"/>
+      <node ref="D14" pin="2"/>
+    </net>
+    <net code="58" name="Net-(MX15-Pad4)">
+      <node ref="R15" pin="1"/>
+      <node ref="MX15" pin="4"/>
+    </net>
+    <net code="59" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="MX5" pin="2"/>
+    </net>
+    <net code="60" name="Net-(MX4-Pad4)">
+      <node ref="R4" pin="1"/>
+      <node ref="MX4" pin="4"/>
+    </net>
+    <net code="61" name="Net-(D4-Pad2)">
+      <node ref="MX4" pin="2"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="62" name="Net-(MX5-Pad4)">
+      <node ref="R5" pin="1"/>
+      <node ref="MX5" pin="4"/>
+    </net>
+    <net code="63" name="Net-(MX6-Pad4)">
+      <node ref="MX6" pin="4"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="64" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="MX6" pin="2"/>
+    </net>
+    <net code="65" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="MX1" pin="2"/>
+    </net>
+    <net code="66" name="Net-(MX2-Pad4)">
+      <node ref="R2" pin="1"/>
+      <node ref="MX2" pin="4"/>
+    </net>
+    <net code="67" name="Net-(D2-Pad2)">
+      <node ref="MX2" pin="2"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="68" name="Net-(MX3-Pad4)">
+      <node ref="R3" pin="1"/>
+      <node ref="MX3" pin="4"/>
+    </net>
+    <net code="69" name="Net-(D3-Pad2)">
+      <node ref="MX3" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="70" name="Net-(MX10-Pad4)">
+      <node ref="R10" pin="1"/>
+      <node ref="MX10" pin="4"/>
+    </net>
+    <net code="71" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="MX10" pin="2"/>
+    </net>
+    <net code="72" name="Net-(MX9-Pad4)">
+      <node ref="R9" pin="1"/>
+      <node ref="MX9" pin="4"/>
+    </net>
+    <net code="73" name="Net-(MX11-Pad4)">
+      <node ref="MX11" pin="4"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="74" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="MX11" pin="2"/>
+    </net>
+    <net code="75" name="Net-(MX7-Pad4)">
+      <node ref="MX7" pin="4"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="76" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="MX7" pin="2"/>
+    </net>
+    <net code="77" name="Net-(MX8-Pad4)">
+      <node ref="MX8" pin="4"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="78" name="Net-(D8-Pad2)">
+      <node ref="MX8" pin="2"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="79" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2"/>
+      <node ref="MX9" pin="2"/>
+    </net>
+    <net code="80" name="Net-(D27-Pad2)">
+      <node ref="MX27" pin="2"/>
+      <node ref="D27" pin="2"/>
+    </net>
+    <net code="81" name="Net-(MX27-Pad4)">
+      <node ref="R27" pin="1"/>
+      <node ref="MX27" pin="4"/>
+    </net>
+    <net code="82" name="Net-(MX28-Pad4)">
+      <node ref="R28" pin="1"/>
+      <node ref="MX28" pin="4"/>
+    </net>
+    <net code="83" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2"/>
+      <node ref="MX28" pin="2"/>
+    </net>
+    <net code="84" name="Net-(MX29-Pad4)">
+      <node ref="MX29" pin="4"/>
+      <node ref="R29" pin="1"/>
+    </net>
+    <net code="85" name="Net-(D29-Pad2)">
+      <node ref="MX29" pin="2"/>
+      <node ref="D29" pin="2"/>
+    </net>
+    <net code="86" name="Net-(MX25-Pad4)">
+      <node ref="MX25" pin="4"/>
+      <node ref="R25" pin="1"/>
+    </net>
+    <net code="87" name="Net-(D25-Pad2)">
+      <node ref="MX25" pin="2"/>
+      <node ref="D25" pin="2"/>
+    </net>
+    <net code="88" name="Net-(MX26-Pad4)">
+      <node ref="R26" pin="1"/>
+      <node ref="MX26" pin="4"/>
+    </net>
+    <net code="89" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2"/>
+      <node ref="MX26" pin="2"/>
+    </net>
+    <net code="90" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="MX19" pin="2"/>
+    </net>
+    <net code="91" name="Net-(MX18-Pad4)">
+      <node ref="MX18" pin="4"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="92" name="Net-(D18-Pad2)">
+      <node ref="MX18" pin="2"/>
+      <node ref="D18" pin="2"/>
+    </net>
+    <net code="93" name="Net-(MX19-Pad4)">
+      <node ref="R19" pin="1"/>
+      <node ref="MX19" pin="4"/>
+    </net>
+    <net code="94" name="Net-(MX20-Pad4)">
+      <node ref="R20" pin="1"/>
+      <node ref="MX20" pin="4"/>
+    </net>
+    <net code="95" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2"/>
+      <node ref="MX20" pin="2"/>
+    </net>
+    <net code="96" name="Net-(D15-Pad2)">
+      <node ref="MX15" pin="2"/>
+      <node ref="D15" pin="2"/>
+    </net>
+    <net code="97" name="Net-(MX16-Pad4)">
+      <node ref="MX16" pin="4"/>
+      <node ref="R16" pin="1"/>
+    </net>
+    <net code="98" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2"/>
+      <node ref="MX16" pin="2"/>
+    </net>
+    <net code="99" name="Net-(MX17-Pad4)">
+      <node ref="MX17" pin="4"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="100" name="Net-(D17-Pad2)">
+      <node ref="MX17" pin="2"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="101" name="Net-(MX24-Pad4)">
+      <node ref="R24" pin="1"/>
+      <node ref="MX24" pin="4"/>
+    </net>
+    <net code="102" name="Net-(D24-Pad2)">
+      <node ref="MX24" pin="2"/>
+      <node ref="D24" pin="2"/>
+    </net>
+    <net code="103" name="Net-(MX23-Pad4)">
+      <node ref="R23" pin="1"/>
+      <node ref="MX23" pin="4"/>
+    </net>
+    <net code="104" name="Net-(MX21-Pad4)">
+      <node ref="R21" pin="1"/>
+      <node ref="MX21" pin="4"/>
+    </net>
+    <net code="105" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2"/>
+      <node ref="MX21" pin="2"/>
+    </net>
+    <net code="106" name="Net-(MX22-Pad4)">
+      <node ref="MX22" pin="4"/>
+      <node ref="R22" pin="1"/>
+    </net>
+    <net code="107" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2"/>
+      <node ref="MX22" pin="2"/>
+    </net>
+    <net code="108" name="Net-(D23-Pad2)">
+      <node ref="MX23" pin="2"/>
+      <node ref="D23" pin="2"/>
+    </net>
+  </nets>
+</export>
