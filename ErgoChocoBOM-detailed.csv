@@ -1,19 +1,10 @@
-Reference Designator,Value,Description,Footprint,LCSC PN,Price ea,Price ext,URL,JLCPCB basic/extended parts list,Quantity
-    C1,1uF,UCAP capacitor,Capacitor_SMD:C_0805_2012Metric,C28323,0.0224,0.0224,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21B105KBFNNNE_1uF-105-10-50V_C28323.html/?href=jlc-SMT ,basic,1
->  C2-C4,0.1uF,MCU decoupling capacitors,Capacitor_SMD:C_0805_2012Metric,C49678,0.0165,0.0495,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-50V_C49678.html/?href=jlc-SMT ,basic,3
-    C5,10uF,MCU decoupling capacitors,Capacitor_SMD:C_0805_2012Metric,C15850,0.0318,0.0318,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21A106KAYNNNE_10uF-106-10-25V_C15850.html/?href=jlc-SMT ,basic,1
-">  C6, C7",22pF,Crystal load capacitors,Capacitor_SMD:C_0805_2012Metric,C1804,0.0148,0.0296,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21C220JBANNNC_22pF-220-5-50V_C1804.html/?href=jlc-SMT ,basic,2
->  D1-D42,SOD-123,Switch diodes,Diode_SMD:D_SOD-123,C81598,0.014,0.588,https://lcsc.com/product-detail/Switching-Diode_1N4148W_C81598.html/?href=jlc-SMT ,basic,42
-    F1,500mA,USB fuse,Fuse:Fuse_1206_3216Metric,C163133,0.0534,0.0534,https://lcsc.com/product-detail/Surface-Mount-Fuses_TA-I-Tech-CFS12V6TR50_C163133.html/?href=jlc-SMT ,extended,1
-    J1,USB_B_Micro,Micro USB port,Choco617_parts:CUI_UJ2-MIBH2-4-SMT,N/A,,,https://www.digikey.com/product-detail/en/cui-devices/UJ2-MIBH2-4-SMT-TR/102-4007-1-ND/6187929 ,"N/A, will hand solder",1
->  MX1-MX42,MX-LED,Switches,Choco617_parts:Kailh_socket_MX_PCBmount_LED_1U,N/A,,,"Kailh hotswap sockets and whatever switches I want, also white LEDs, model TBD","N/A, will hand solder",42
-    Q1,Q_NPN_BCE,MOSFET (transistor) for LED PWM,Package_TO_SOT_SMD:SOT-223,C192156,0.1153,0.1153,https://lcsc.com/product-detail/Others_Nexperia_BCP56-10-115_Nexperia-BCP56-10-115_C192156.html/?href=jlc-SMT ,extended,1
->  R1-R42,470,LED resistors,Resistor_SMD:R_0805_2012Metric,C17710,0.004,0.168,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0805W8F4700T5E_C17710.html/?href=jlc-SMT ,basic,42
-">  R44,R45",22,USB resistors,Resistor_SMD:R_0805_2012Metric,C17561,0.0039,0.0156,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0805W8F220JT5E_C17561.html/?href=jlc-SMT ,basic,4
-">  R43, R46",10k,"HWB pull-down resistor, reset button pull-up resistor",Resistor_SMD:R_0805_2012Metric,C17414,0.0039,0.0078,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0805W8F1002T5E_C17414.html/?href=jlc-SMT ,basic,2
-    NPNR1,1.5k,MOSFET resistor,Resistor_SMD:R_0805_2012Metric,C4310,0.0049,0.0049,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0805W8F1501T5E_C4310.html/?href=jlc-SMT ,basic,1
-    SW1,SW_Push,Reset button,random-keyboard-parts:SKQG-1155865,C318884,0.033,0.033,https://lcsc.com/product-detail/Tactile-Switches_XKB-Enterprise-TS-1187-B-A-A_C318884.html/?href=jlc-SMT ,extended,1
-    U1,ATmega32U4-AU,atmega32u4 MCU,Package_QFP:TQFP-44_10x10mm_P0.8mm,C44854,3.3087,3.3087,https://lcsc.com/product-detail/ATMEL-AVR_ATMEL_ATMEGA32U4-AU_ATMEGA32U4-AU_C44854.html/?href=jlc-SMT ,extended,1
-    U2,PRTR5V0U2X,ESD protection IC,random-keyboard-parts:SOT143B,N/A,,,https://www.digikey.com/product-detail/en/nexperia-usa-inc/PRTR5V0U2X-215/1727-3884-1-ND/1589981 ,"N/A, will hand solder",1
-    Y1,16MHz,Crystal,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738,0.0887,0.0887,https://lcsc.com/product-detail/SMD-Crystal-Resonators_Yangxing-Tech-X322516MLB4SI_C13738.html/?href=jlc-SMT ,basic,1
-,,,,,Total:,4.5167,,,
+Id,Designator,Package,Quantity,Designation,Description,Supplier and ref
+1,"REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**",PTH_2.2_4,8,PTH_2.2_4,Through-holes for mounting PCB,N/A
+2,Q1,SOT-23-3,1,Q_NPN_BCE,MOSFET for LEDs,Digi-Key AO3416
+3,SW1,SKQG-1155865,1,SW_Push,Reset switch,Digi-Key RS-187R05A2-DS
+4,"MX2,MX1,MX40,MX15,MX3,MX4,MX5,MX6,MX7,MX8,MX9,MX10,MX11,MX12,MX13,MX14,MX16,MX17,MX18,MX19,MX20,MX21,MX22,MX23,MX24,MX25,MX26,MX27,MX28,MX29,MX30,MX31,MX32,MX33,MX34,MX35,MX36,MX37,MX38,MX39,MX41,MX42",Kailh_socket_MX_PCBmount_LED_1U,42,MX-LED,Keyswitches,
+5,"D42,D41,D40,D39,D38,D37,D36,D35,D34,D33,D32,D31,D30,D29,D28,D27,D26,D25,D24,D23,D22,D21,D20,D19,D18,D17,D16,D15,D14,D13,D12,D11,D10,D9,D8,D7,D6,D5,D4,D3,D2,D1",D_SOD-123-HandSolder,42,SOD-123,Diodes,Digi-Key 1N4148WQ-7-F
+6,U1,ArduinoProMicro,1,ProMicro,Pro Micro,Keebio
+7,NPNR1,R_0805_2012Metric,1,1.5k,1.5k overall resistor for LEDs,Digi-Key CRGCQ0805F1K5
+8,"R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42",R_0805_2012Metric,42,470,470 resistors for each LED,Digi-Key CRGCQ0805F470R
+9,J1,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,Header connections for unused Pro Micro pins,N/A
